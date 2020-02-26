@@ -1,4 +1,4 @@
-# Ratify
+# Dependency
 A cli tool that helps you keep on top of your composer package versions!
 
 ## Installation
