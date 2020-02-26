@@ -140,8 +140,4 @@ class CheckComposerDependencies {
 }
 
 const check = new CheckComposerDependencies();
-const composerLocation = process.argv[2];
-
-check.handle({
-    composerLocation // By default, if no args are provided we default to the current directory.
-});
+check.handle();
