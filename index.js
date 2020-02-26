@@ -140,4 +140,4 @@ class CheckComposerDependencies {
 }
 
 const check = new CheckComposerDependencies();
-check.handle();
+check.handle({});
