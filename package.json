@@ -1,33 +1,33 @@
 {
-  "name": "@kregel/dependency",
-  "version": "1.0.0",
-  "description": "A simple NodeJS package used to display out-of-date composer packages!",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "bin": {
-    "dependency-check": "./dependency-check"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/austinkregel/dependency.git"
-  },
-  "keywords": [
-    "composer",
-    "packagist",
-    "dependency",
-    "check"
-  ],
-  "author": "Austin Kregel",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/austinkregel/dependency/issues"
-  },
-  "homepage": "https://github.com/austinkregel/dependency#readme",
-  "dependencies": {
-    "axios": "^0.19.2",
-    "cli-table": "^0.3.1",
-    "semver": "^7.1.3"
-  }
+    "name": "@kregel/dependency",
+    "version": "1.0.1",
+    "description": "A simple NodeJS package used to display out-of-date composer packages!",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "dependency-check": "./dependency-check"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/austinkregel/dependency.git"
+    },
+    "keywords": [
+        "composer",
+        "packagist",
+        "dependency",
+        "check"
+    ],
+    "author": "Austin Kregel",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/austinkregel/dependency/issues"
+    },
+    "homepage": "https://github.com/austinkregel/dependency#readme",
+    "dependencies": {
+        "axios": "^0.19.2",
+        "cli-table": "^0.3.1",
+        "semver": "^7.1.3"
+    }
 }
