@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/austinkregel/dependency#readme",
     "dependencies": {
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "cli-table": "^0.3.1",
         "semver": "^7.1.3"
     }
